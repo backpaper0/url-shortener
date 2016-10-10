@@ -19,7 +19,7 @@ Spring Boot、PostgreSQL、JSPでURL短縮サービス（短縮URLの管理画�
 PostgreSQLは次のような設定を前提としています。
 
 |設定項目|設定値|
-|-|-|
+|---|---|
 |ホスト|`localhost`|
 |ポート|`5432`|
 |データベース名|`postgres`|
